@@ -212,6 +212,7 @@ Essential libraries and tools for building modern React applications.
 - **[EverUI](https://www.ever-ui.com/)**: Unstyled highly composable components that you can copy/paste in your own codebase.
 - **[Indie UI](https://ui.indie-starter.dev/)**: Rich Styled UI Components built with Reactjs, shadcn and Framer Motion for animation.
 - **[Reui](https://reui.io/)**: Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- **[SVAR React Core](https://svar.dev/react/core/)**: 30+ open-source React components and form controls — buttons, popups, menus, date pickers, and more
 
 ## Tables
 
@@ -223,6 +224,7 @@ Essential libraries and tools for building modern React applications.
 - **[React Data Grid](https://adazzle.github.io/react-data-grid/)**: Excel-like grid component built with React.
 - **[Griddle](https://griddlegriddle.github.io/Griddle/)**: A simple grid component for use with React.
 - **[Tabulator](https://tabulator.info/)**: Interactive Tables and Data Grids.
+- **[SVAR React DataGrid](https://svar.dev/react/datagrid/)**: A React data grid with virtual scrolling, filtering, in-cell editing, and tree data.
 
 ## Forms
 
@@ -377,6 +379,7 @@ Essential libraries and tools for building modern React applications.
 - **[react-uploady](https://react-uploady.org/)**: Modern file-upload components & hooks for React.
 - **[React Spreadsheet](https://iddan.github.io/react-spreadsheet/)**: Simple, customizable yet performant spreadsheet for React.
 - **[Jspreadsheet](https://bossanova.uk/jspreadsheet/)**: Fully customizable JavaScript spreadsheet library, offering various components to enhance web development projects.
+- **[SVAR React File Manager](https://svar.dev/react/filemanager/)**: A backend-agnostic file explorer with list, tiles, and split views, file preview, and all file operations
 
 ## Real-time Communication
 
