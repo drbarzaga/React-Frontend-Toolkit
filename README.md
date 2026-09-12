@@ -165,6 +165,7 @@ Essential libraries and tools for building modern React applications.
 
 *Component libraries and design systems to build polished interfaces fast.*
 
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)**: Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Eldora UI](https://www.eldoraui.site/)**: An open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 - **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
